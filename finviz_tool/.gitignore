@@ -1,0 +1,15 @@
+# Credentials
+credentials.json
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output data (optional, remove if you want to track these)
+*.csv
+
+# System
+.DS_Store
+Thumbs.db
